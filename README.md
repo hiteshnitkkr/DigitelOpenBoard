@@ -1,6 +1,10 @@
 Introducing our revolutionary "Digitel Board Web Application," a dynamic platform designed to revolutionize online teaching and note-taking experiences. Seamlessly integrating into live classes, this application empowers educators to deliver engaging lectures, interact with students in real-time, and create an interactive learning environment like never before.
 
 With a user-friendly interface, students can effortlessly make notes during live classes, jotting down important points and annotations to enhance their understanding. The application's versatility extends further with functionalities that enable users to insert images and external media, fostering immersive learning experiences and accommodating various teaching styles.
+![first](https://github.com/hiteshnitkkr/DigitelOpenBoard/assets/97216404/7f36072d-8467-4e36-a091-a091236863d5)
+![second](https://github.com/hiteshnitkkr/DigitelOpenBoard/assets/97216404/717ccf23-e104-40bd-bade-0474a1c5d25b)
+![third](https://github.com/hiteshnitkkr/DigitelOpenBoard/assets/97216404/938dcb16-6b67-4dc2-8712-e07cd079121b)
+
 
 1.Our "Digitel Board Web Application" takes productivity to new heights with the capability to download and access notes offline, ensuring seamless studying and revision, even without an internet connection. The integration of expressive color variants allows users to personalize their presentations, making learning visually appealing and stimulating.
 
